@@ -1,4 +1,5 @@
 ### About Bob Gregor (he/him/🦄)
+- ❤️ Working at Red Hat on the [Open Data Hub AI Dashboards](https://github.com/opendatahub-io/odh-dashboard) as an engineering manager. 
 - 💬 Ask me about breaking into technology as a diverse person, and check out my [network](https://www.linkedin.com/in/bobgregor/) if I can help make intros.
 - 👨🏻‍💻 Professional <em>TLDR;</em> <br/> Lifelong technologist patiently evolving into a full stack generalist, looking to use my skills to improve the human condition.
 - Fun Fact: First fell in love with tech in middle school when my 10mb shared hosting space allowed me to create at home, and share it with classmates. Bought [www.bobscomputers.com](www.bobscomputers.com) shortly therafter! 
